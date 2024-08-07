@@ -1,0 +1,16 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend channel on a -Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript,backend,chai"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "gaurav patil",
+  "license": "ISC"
+}
